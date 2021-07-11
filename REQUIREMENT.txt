@@ -1,0 +1,3 @@
+To link with database we have used XAMPP server 
+U can download that from
+---https://www.apachefriends.org/download.html
